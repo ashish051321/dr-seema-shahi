@@ -1,0 +1,245 @@
+{
+    "doctorInfo": {
+      "name": "Dr. Seema Shahi",
+      "title": "MD, DNB Neurology, PDF Epilepsy (USA)",
+      "experience": "15+ years",
+      "education": [
+        "MBBS - Moti Lal Nehru Medical College, Allahabad (2007)",
+        "MD - Internal Medicine (2011)",
+        "DNB - Neurology, Medanta The Medicity (2021)",
+        "PDF - Epilepsy Fellowship, USA"
+      ],
+      "currentPractice": "Clinical EEG/Epilepsy Fellow - University of Louisville, Kentucky",
+      "description": "Highly qualified neurologist with specialized training in epilepsy, EEG monitoring, and neurophysiology. Currently completing advanced fellowship training in EEG/Epilepsy at University of Louisville, USA.",
+      "experienceDetails": [
+        {
+          "id": 1,
+          "title": "Current Position",
+          "organization": "University of Louisville, Kentucky",
+          "description": "Clinical EEG/Epilepsy Fellow (July 2024 - June 2025), specializing in epilepsy monitoring, neurostimulation, and presurgical epilepsy workup.",
+          "icon": "fas fa-hospital"
+        },
+        {
+          "id": 2,
+          "title": "Previous Experience",
+          "organization": "Artemis Hospital & Axis Spine Clinics",
+          "description": "Attending Neurologist (Oct 2021 - Feb 2023) in Gurugram, India, providing comprehensive neurological care.",
+          "icon": "fas fa-clock"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "id": 1,
+        "title": "Epilepsy & EEG Monitoring",
+        "description": "Comprehensive epilepsy care with advanced EEG monitoring and presurgical evaluation",
+        "icon": "fas fa-brain",
+        "slug": "epilepsy-eeg-monitoring",
+        "detailedDescription": "Specialized care for epilepsy patients including continuous EEG monitoring, EMU (Epilepsy Monitoring Unit) evaluation, StereoEEG, ECOG monitoring, and presurgical epilepsy workup to determine optimal treatment strategies.",
+        "symptoms": [
+          "Recurrent seizures",
+          "Loss of consciousness",
+          "Unusual sensations or behaviors",
+          "Memory problems",
+          "Mood changes",
+          "Sleep disturbances"
+        ],
+        "causes": [
+          "Genetic factors",
+          "Brain injuries or trauma",
+          "Infections affecting the brain",
+          "Stroke or brain tumors",
+          "Developmental disorders",
+          "Unknown causes (idiopathic)"
+        ],
+        "treatments": [
+          "Antiepileptic medications",
+          "Continuous EEG monitoring",
+          "Epilepsy surgery evaluation",
+          "Neurostimulation therapy",
+          "Ketogenic diet",
+          "Lifestyle modifications"
+        ],
+        "prevention": [
+          "Regular medication adherence",
+          "Adequate sleep and stress management",
+          "Avoiding seizure triggers",
+          "Regular medical follow-ups",
+          "Safety precautions and lifestyle modifications"
+        ],
+        "whenToSeeDoctor": [
+          "First seizure episode",
+          "Changes in seizure frequency or pattern",
+          "Medication side effects",
+          "Pregnancy planning with epilepsy",
+          "Surgical evaluation consideration"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Neurophysiology (EMG/NCV)",
+        "description": "Advanced neurophysiological testing for nerve and muscle disorders",
+        "icon": "fas fa-heartbeat",
+        "slug": "neurophysiology-emg-ncv",
+        "detailedDescription": "Comprehensive neurophysiological evaluation using EMG (Electromyography) and NCV (Nerve Conduction Velocity) studies to diagnose nerve and muscle disorders, peripheral neuropathies, and neuromuscular junction diseases.",
+        "symptoms": [
+          "Muscle weakness or atrophy",
+          "Numbness or tingling",
+          "Muscle cramps or twitching",
+          "Difficulty with fine motor tasks",
+          "Loss of muscle mass",
+          "Fatigue with minimal exertion"
+        ],
+        "causes": [
+          "Diabetes and metabolic disorders",
+          "Autoimmune conditions",
+          "Toxic exposures",
+          "Infections",
+          "Genetic disorders",
+          "Trauma or compression"
+        ],
+        "treatments": [
+          "EMG/NCV testing for diagnosis",
+          "Medication management",
+          "Physical therapy",
+          "Occupational therapy",
+          "Treatment of underlying conditions",
+          "Surgical intervention when appropriate"
+        ],
+        "prevention": [
+          "Blood sugar control for diabetics",
+          "Avoiding toxic substances",
+          "Regular exercise",
+          "Proper nutrition",
+          "Early detection and treatment"
+        ],
+        "whenToSeeDoctor": [
+          "Progressive muscle weakness",
+          "Persistent numbness or tingling",
+          "Muscle cramps or twitching",
+          "Difficulty with coordination",
+          "Family history of neuromuscular disorders"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "General Neurology",
+        "description": "Comprehensive neurological care for various neurological conditions",
+        "icon": "fas fa-user-md",
+        "slug": "general-neurology",
+        "detailedDescription": "Expert care for a wide range of neurological conditions including movement disorders, headaches, cognitive disorders, and other complex neurological diseases with focus on accurate diagnosis and personalized treatment plans.",
+        "symptoms": [
+          "Headaches and migraines",
+          "Memory problems or confusion",
+          "Movement difficulties",
+          "Sleep disorders",
+          "Dizziness or balance problems",
+          "Speech or language difficulties"
+        ],
+        "causes": [
+          "Genetic factors",
+          "Environmental factors",
+          "Infections",
+          "Autoimmune conditions",
+          "Trauma",
+          "Degenerative processes"
+        ],
+        "treatments": [
+          "Comprehensive neurological evaluation",
+          "Advanced neuroimaging",
+          "Medication management",
+          "Physical and cognitive therapy",
+          "Lifestyle modifications",
+          "Multidisciplinary care coordination"
+        ],
+        "prevention": [
+          "Healthy lifestyle choices",
+          "Regular exercise",
+          "Stress management",
+          "Protective measures against head injury",
+          "Regular health checkups"
+        ],
+        "whenToSeeDoctor": [
+          "Persistent neurological symptoms",
+          "Changes in cognitive function",
+          "New onset headaches",
+          "Movement difficulties",
+          "Family history of neurological conditions"
+        ]
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Patient Name",
+        "role": "Patient",
+        "content": "Excellent care and treatment. Highly recommended!",
+        "rating": 5
+      }
+    ],
+    "blogs": [
+      {
+        "id": 1,
+        "title": "Understanding Neurological Health",
+        "excerpt": "Learn about maintaining good neurological health and preventing disorders.",
+        "date": "10/9/2025",
+        "views": 10,
+        "image": "assets/images/blog1.jpg"
+      }
+    ],
+    "stats": [
+      {
+        "id": 1,
+        "number": "1000+",
+        "label": "Happy Patients",
+        "icon": "fas fa-smile"
+      },
+      {
+        "id": 2,
+        "number": "15+",
+        "label": "Years of Experience",
+        "icon": "fas fa-calendar-alt"
+      },
+      {
+        "id": 3,
+        "number": "500+",
+        "label": "Epilepsy Cases",
+        "icon": "fas fa-brain"
+      },
+      {
+        "id": 4,
+        "number": "5+",
+        "label": "Research Papers",
+        "icon": "fas fa-book"
+      }
+    ],
+    "contactInfo": {
+      "phone": "+1 3127764917",
+      "email": "find.shahi90@gmail.com",
+      "locations": [
+        {
+          "name": "University of Louisville",
+          "address": "301 Axis Drive, # 210, Louisville, Kentucky 40206, USA",
+          "phone": "+1 3127764917",
+          "hours": "Mon-Fri: 9:00 AM - 5:00 PM (Fellowship Schedule)"
+        },
+        {
+          "name": "India Contact",
+          "address": "Delhi/Gurugram, India",
+          "phone": "+91 9953019290",
+          "hours": "Available for consultation"
+        },
+        {
+          "name": "Alternative Email",
+          "address": "findshahi@gmail.com",
+          "phone": "+1 3127764917",
+          "hours": "24/7 Email Support"
+        }
+      ]
+    },
+    "siteSettings": {
+      "siteName": "Medical Practice",
+      "primaryColor": "#2c5aa0",
+      "secondaryColor": "#f8f9fa"
+    }
+  }
